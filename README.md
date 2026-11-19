@@ -20,8 +20,6 @@ New Era University
 ## Certifications
 
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/98d9f7effc3c412a867024d17ea9ba40)
-- [Certificate 1](PASTE-CERTIFICATE-LINK-HERE)
-- [Certificate 2](PASTE-CERTIFICATE-LINK-HERE)
 
 ## Skills
 
