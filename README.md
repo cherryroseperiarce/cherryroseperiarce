@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="your-picture.jpg" width="200">
+  <img src="
+" width="200">
 </div>
 
 # Hello! I'm Cherry Rose Periarce 👋
